@@ -12,7 +12,7 @@ Aplikasi kalkulator modern berbasis Flutter yang menyediakan fitur perhitungan m
 - Halaman profil dengan informasi developer
 - Tampilan UI adaptif (cocok untuk layar besar/tablet)
 - Native splash screen menggunakan animasi GIF
-- Tema warna pink yang konsisten
+- Tema warna Hitam dan biru yang konsisten
 
 ---
 
