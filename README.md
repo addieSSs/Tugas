@@ -33,7 +33,7 @@ Aplikasi kalkulator modern berbasis Flutter yang menyediakan fitur perhitungan m
    cd flutter-kalkulator-app
 
 2. **Install dependencies:**
-   ```flutter pub get
+   ``` flutter pub get
 
 4. **Jalankan aplikasi:**
    ```flutter run
